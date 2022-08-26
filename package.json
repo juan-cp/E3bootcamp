@@ -1,0 +1,26 @@
+{
+  "name": "e3bootcamp",
+  "version": "1.0.0",
+  "description": "Dashboard acciones",
+  "main": "script.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan-cp/E3bootcamp.git"
+  },
+  "keywords": [
+    "acciones",
+    "dashboard"
+  ],
+  "author": "JCP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juan-cp/E3bootcamp/issues"
+  },
+  "homepage": "https://github.com/juan-cp/E3bootcamp#readme",
+  "dependencies": {
+    "chart.js": "^3.9.1"
+  }
+}
